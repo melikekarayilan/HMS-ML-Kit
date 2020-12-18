@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="mainColor">#3AD29F</color>
+    <color name="buttonColor">#3AD29F</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <color name="nova_1_color">#3d9e80</color>
+    <color name="nova_2_color">#ffc947</color>
+    <color name="nova_3_color">#fa9214</color>
+    <color name="nova_4_color">#f94144</color>
+
+</resources>

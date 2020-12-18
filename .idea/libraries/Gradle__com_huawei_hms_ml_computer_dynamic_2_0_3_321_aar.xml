@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:ml-computer-dynamic:2.0.3.321@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../gradle-4.10.1/caches/transforms-2/files-2.1/3072960b24627d022e5c006226a3503e/jetified-ml-computer-dynamic-2.0.3.321/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../gradle-4.10.1/caches/transforms-2/files-2.1/3072960b24627d022e5c006226a3503e/jetified-ml-computer-dynamic-2.0.3.321/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../gradle-4.10.1/caches/transforms-2/files-2.1/3072960b24627d022e5c006226a3503e/jetified-ml-computer-dynamic-2.0.3.321/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../gradle-4.10.1/caches/modules-2/files-2.1/com.huawei.hms/ml-computer-dynamic/2.0.3.321/da39a3ee5e6b4b0d3255bfef95601890afd80709/ml-computer-dynamic-2.0.3.321-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../gradle-4.10.1/caches/modules-2/files-2.1/com.huawei.hms/ml-computer-dynamic/2.0.3.321/da39a3ee5e6b4b0d3255bfef95601890afd80709/ml-computer-dynamic-2.0.3.321-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
